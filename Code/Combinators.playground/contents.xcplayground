@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='false'>
+    <pages>
+        <page name='00TOC'/>
+        <page name='01PictureLanguage'/>
+        <page name='02WarmUp'/>
+        <page name='03Favorites'/>
+        <page name='04List'/>
+        <page name='04aMoreList'/>
+        <page name='05Set'/>
+        <page name='05aGenericSet'/>
+        <page name='06State'/>
+        <page name='07ParserCombinator'/>
+    </pages>
+</playground>
